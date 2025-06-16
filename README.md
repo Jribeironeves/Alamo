@@ -27,7 +27,7 @@ Projeto Next.js 15 com App Router para gerenciamento de rotinas, contemplando si
 * Modal para criação de novas rotinas
 * Estado global gerenciado via Zustand
 * Dados simulados (mock) e carregados via React Query com delay para simular API local
-* Persistência opcional via localStorage (conforme necessidade)
+
 
 ---
 
